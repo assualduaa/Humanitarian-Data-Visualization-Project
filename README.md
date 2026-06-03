@@ -1,7 +1,7 @@
 # Humanitarian-Data-Visualization-Project
 This project presents a Humanitarian Data Visualization and Analytics Dashboard built using publicly available datasets.
 
-🌍 Humanitarian Data Visualization Project
+
 📌 Overview
 
 This project presents a Humanitarian Data Visualization and Analytics Dashboard built using publicly available datasets.
@@ -50,19 +50,26 @@ Improved understanding of crisis data structures and patterns
 Built structured analytical workflows for BI reporting
 Strengthened storytelling using data visualization
 Developed experience handling real-world public datasets
+
+
 ⚖️ Ethical & Legal Considerations
 All datasets used are publicly available sources
 No personal or sensitive data is included
 The project is intended for educational and analytical purposes only
 No political or ideological interpretation is intended
+
+
 🚀 Future Enhancements
 Integration with real-time APIs for live data updates
 Advanced predictive modeling for risk forecasting
 Deployment as an interactive web dashboard
 AI-assisted anomaly detection in crisis trends
+
+
 👤 Author
 
-Asns Sherin
+Asna Sherin
+ 
  AI & Automation Enthusiast | Data & BI Analyst | BI Developer 
 Abu Dhabi, UAE
 
