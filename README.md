@@ -25,6 +25,9 @@ Trend analysis of market behavior over time
 Interactive dashboards for decision support
 Insight-driven visualization and storytelling
 
+<img width="1869" height="871" alt="Screenshot 2026-06-03 104432" src="https://github.com/user-attachments/assets/3448ad48-8890-4b1c-8b12-0b4d0ee9e79f" />
+
+
 🛠️ Tools & Technologies
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Power BI
