@@ -1,4 +1,4 @@
-#Market Intelligence & Data Visualization Project
+## Market Intelligence & Data Visualization Project
 
 
 📌 Overview
