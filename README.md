@@ -1,4 +1,6 @@
-Market Intelligence & Data Visualization Project
+#Market Intelligence & Data Visualization Project
+
+
 📌 Overview
 
 This project presents a Market Intelligence and Data Visualization solution developed to analyze property market trends using publicly available datasets.
